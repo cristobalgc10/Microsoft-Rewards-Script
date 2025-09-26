@@ -30,8 +30,6 @@
 
 ## 🎯 **What Does This Script Do?**
 
-<div align="center">
-
 **Automatically earn Microsoft Rewards points by completing daily tasks:**
 - 🔍 **Daily Searches** — Desktop & Mobile Bing searches  
 - 📅 **Daily Set** — Complete daily quizzes and activities  
