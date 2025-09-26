@@ -28,45 +28,7 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 🚀 **Big Update Alert — V2 is here!**
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://github.com/TheNetsky.png" width="80" style="border-radius: 50%;" /><br />
-<strong><a href="https://github.com/TheNetsky/">TheNetsky</a></strong> 🙌<br />
-<em>Foundation Architect</em><br />
-<sub>Building the massive foundation</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://github.com/mgrimace.png" width="80" style="border-radius: 50%;" /><br />
-<strong><a href="https://github.com/mgrimace">Mgrimace</a></strong> 🔥<br />
-<em>Active Developer</em><br />
-<sub>Regular updates & <a href="./docs/ntfy.md">NTFY mode</a></sub>
-</td>
-<td width="33%" align="center">
-<img src="https://github.com/LightZirconite.png" width="80" style="border-radius: 50%;" /><br />
-<strong><a href="https://github.com/LightZirconite">Light</a></strong> ✨<br />
-<em>V2 Mastermind</em><br />
-<sub>Massive feature overhaul</sub>
-</td>
-</tr>
-</table>
-
-**💡 Welcome to V2 — There are honestly so many changes that even I can't list them all!**  
-*Trust me, you've got a **massive upgrade** in front of you. Enjoy the ride!* 🎢
-
-</div>
-
----
-
 ## 🎯 **What Does This Script Do?**
-
-<div align="center">
 
 **Automatically earn Microsoft Rewards points by completing daily tasks:**
 - 🔍 **Daily Searches** — Desktop & Mobile Bing searches  
