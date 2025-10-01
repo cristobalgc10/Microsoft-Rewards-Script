@@ -4,7 +4,7 @@ name: Build and Publish Microsoft-Rewards Image
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'   # cada hora (ajusta si quieres otra frecuencia)
+    - cron: '0 0 * * *'   # cada día a las 00:00 UTC
   push:
     branches:
       - main
